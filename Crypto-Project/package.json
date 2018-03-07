@@ -1,0 +1,16 @@
+{
+  "name": "crypto-practice",
+  "version": "1.0.0",
+  "description": "Fetching and displaying crypto price changes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris & Lo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
